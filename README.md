@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer FullStack using PHP, Laravel, VueJS, Java, Spring Boot, Flutter and Ruby On Rails<br>Graduated in Information Technology Management at UNIP<br>Graduating in Computer Science at UECE.
+Developer FullStack using PHP, Laravel, VueJS, Java, Spring Boot and Flutter<br>Graduated in Information Technology Management at UNIP<br>Graduating in Computer Science at UECE.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpedrocavalcante) 
